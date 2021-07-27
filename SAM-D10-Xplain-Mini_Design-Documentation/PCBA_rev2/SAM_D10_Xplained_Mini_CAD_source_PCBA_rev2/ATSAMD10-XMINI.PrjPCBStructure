@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=ATSAMD10-XMINI_TopLevel.SchDoc
+Record=SheetSymbol|SourceDocument=ATSAMD10-XMINI_TopLevel.SchDoc|Designator=Programmer/Debug|SchDesignator=Programmer/Debug|FileName=ATSAMD10-XMINI_Programmer.SchDoc|SymbolType=Normal|RawFileName=ATSAMD10-XMINI_Programmer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ATSAMD10-XMINI_TopLevel.SchDoc|Designator=Target device|SchDesignator=Target device|FileName=ATSAMD10-XMINI_Target.SchDoc|SymbolType=Normal|RawFileName=ATSAMD10-XMINI_Target.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

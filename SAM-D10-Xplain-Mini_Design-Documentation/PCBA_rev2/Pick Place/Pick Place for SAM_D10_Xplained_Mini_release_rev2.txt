@@ -1,0 +1,62 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R300       AP2-00000              12.2mm     54.1586mm        12.2mm     54.1586mm        12.8mm     54.1586mm  T        180.00 R2             
+J300       AP8-00745             11.05mm     57.5086mm       11.05mm     57.5086mm       13.59mm     57.5086mm  T        180.00 Same as A08-1614 but with 1mm hole for optimal reflow soldering (no misalignment of the component)
+J301       AP8-00745            36.775mm     57.5087mm      36.775mm     57.5087mm      39.315mm     57.5087mm  T        180.00 Same as A08-1614 but with 1mm hole for optimal reflow soldering (no misalignment of the component)
+U300       AP6-00087           29.6926mm     63.3924mm     29.6926mm     63.3924mm     28.4676mm     64.3454mm  T        360.00 VOLTREG7       
+R115       AP2-00000            25.315mm     68.3346mm      25.315mm     68.3346mm      25.315mm     68.9346mm  T        270.00 R2             
+R302       AP2-00000           33.2512mm     64.3569mm     33.2512mm     64.3569mm     32.6512mm     64.3569mm  T        360.00 R2             
+F100       AP2-00002              33.4mm     68.5086mm        33.4mm     68.5086mm       32.45mm     68.5086mm  T        360.00 Farnell no: 1861197
+C300       AP1-00002           26.7469mm     63.5611mm     26.7469mm     63.5611mm     26.7469mm     64.3611mm  T        270.00 Farnell no.: 1833806
+C110       AP1-00001            26.458mm     68.3346mm      26.458mm     68.3346mm      26.458mm     67.7846mm  T         90.00 CAP-NONPOL     
+C301       AP1-00001           30.5025mm     60.8019mm     30.5025mm     60.8019mm     31.0525mm     60.8019mm  T        180.00 CAP-NONPOL     
+C302       AP1-00002           31.7859mm       66.12mm     31.7859mm       66.12mm     30.9859mm       66.12mm  T        360.00 Farnell no.: 1833806
+U100       AP6-00375              29.5mm     46.6086mm        29.5mm     46.6086mm          32mm     50.0336mm  T        270.00 ATmega32U4 QFN 
+XC100      AP7-00061                21mm     45.4085mm          21mm     45.4086mm        21.8mm     44.3085mm  T         90.00 TSX-3225       
+SW200      AP8-00137            22.125mm      5.2836mm      22.125mm      5.2836mm      20.125mm      2.5336mm  T         90.00 Can be ordered in low volumes from Mouser
+R202       AP2-00000            34.417mm      2.0406mm      34.417mm      2.0406mm      34.417mm      1.4406mm  T         90.00 R2             
+R105       AP2-00000            21.375mm     36.9836mm      21.375mm     36.9836mm      21.375mm     37.5836mm  T        270.00 R2             
+R104       AP2-00000            26.625mm     39.4336mm      26.625mm     39.4336mm      26.625mm     38.8336mm  T         90.00 R2             
+R103       AP2-00000            27.025mm      6.8086mm      27.025mm      6.8086mm      27.025mm      7.4086mm  T        270.00 R2             
+R102       AP2-00000              30.2mm     52.7586mm        30.2mm     52.7586mm        30.2mm     53.3586mm  T        270.00 R2             
+R101       AP2-00000             31.35mm     52.7586mm       31.35mm     52.7586mm       31.35mm     53.3586mm  T        270.00 R2             
+Q102       AP5-00002            23.935mm     39.1286mm      23.935mm     39.1286mm      24.985mm     38.1786mm  T        180.00 MOSFET_N_GSD   
+Q101       AP5-00002            23.935mm     35.6286mm      23.935mm     35.6286mm      22.885mm     36.5786mm  T        360.00 MOSFET_P_GSD   
+J100       AP8-00257             48.26mm     57.1586mm       48.26mm     57.1586mm       45.72mm     56.5236mm  T        360.00 HEADER 2x5     
+D200       AP4-00013             31.75mm      1.7836mm       31.75mm      1.7836mm        30.7mm      1.7836mm  T        360.00 LED_12         
+C201       AP1-00001           25.0163mm     29.1112mm     25.0163mm     29.1112mm     24.4663mm     29.1112mm  T        360.00 CAP-NONPOL     
+C200       AP1-00001           25.0163mm     27.8612mm     25.0163mm     27.8612mm     24.4663mm     27.8612mm  T        360.00 CAP-NONPOL     
+C107       AP1-00001             26.95mm     41.8836mm       26.95mm     41.8836mm        26.4mm     41.8836mm  T        360.00 CAP-NONPOL     
+C105       AP1-00038            23.475mm     46.3836mm      23.475mm     45.8586mm      23.475mm     45.8586mm  T        180.00 CAP-NONPOL     
+C104       AP1-00001            24.775mm     48.1586mm      24.775mm     48.1586mm      24.775mm     48.7086mm  T        270.00 CAP-NONPOL     
+C103       AP1-00001             28.95mm     52.7586mm       28.95mm     52.7586mm       28.95mm     53.3086mm  T        270.00 CAP-NONPOL     
+C102       AP1-00001             34.25mm     44.0586mm       34.25mm     44.0586mm       34.25mm     43.5086mm  T         90.00 CAP-NONPOL     
+C101       AP1-00001            34.225mm     49.0337mm      34.225mm     49.0337mm      34.225mm     48.4836mm  T         90.00 CAP-NONPOL     
+LABEL1     AP8-00317           -164.08mm   -142.4714mm       38.21mm      9.4586mm     -164.08mm   -142.4714mm  B        180.00 PCBA_LABEL     
+C108       AP1-00001             22.85mm     49.8086mm       22.85mm     49.8086mm        23.4mm     49.8086mm  T        180.00 CAP-NONPOL     
+C204       AP1-00001             20.85mm     10.3086mm       20.85mm     10.3086mm        20.3mm     10.3086mm  T        360.00 CAP-NONPOL     
+D100       AP4-00013            28.225mm     36.7586mm      28.225mm     36.7586mm      29.275mm     36.7586mm  T        180.00 LED_12         
+J104       AP8-00733             16.51mm     49.5386mm       16.51mm     49.5386mm       16.51mm     48.2686mm  T         90.00 HEADER 1x2     
+J200       AP8-00822             54.61mm     40.9026mm       54.61mm     40.9026mm       54.61mm     29.4726mm  T         90.00 HEADER 1x10 FEMALE
+J201       AP8-00823             54.61mm     16.5186mm       54.61mm     16.5186mm       54.61mm      7.6286mm  T         90.00 HEADER 1x8 FEMALE
+J202       AP8-00823              6.35mm     34.2986mm        6.35mm     34.2986mm        6.35mm     43.1886mm  T        270.00 HEADER 1x8 FEMALE
+J203       AP8-00824              6.35mm     13.9786mm        6.35mm     13.9786mm        6.35mm     20.3286mm  T        270.00 HEADER 1x6 FEMALE
+J204       AP8-00182              31.7mm      6.2186mm        31.7mm      6.2186mm       34.24mm      7.4886mm  T        180.00 Not usable for reflow soldering. Wave only. To be used by request from ESCATEC.
+R107       AP2-00000            20.875mm     41.3086mm      20.875mm     41.3086mm      20.875mm     41.9086mm  T        270.00 R2             
+R108       AP2-00000            19.625mm     40.5586mm      19.625mm     40.5586mm      19.625mm     41.1586mm  T        270.00 R2             
+R109       AP2-00000              31.3mm     39.1086mm        31.3mm     39.1086mm        31.3mm     38.5086mm  T         90.00 R2             
+R110       AP2-00000           36.1576mm     50.0165mm     36.1576mm     50.0165mm     35.5576mm     50.0165mm  T        360.00 R2             
+R111       AP2-00000           36.1576mm     53.4665mm     36.1576mm     53.4665mm     35.5576mm     53.4665mm  T        360.00 R2             
+R112       AP2-00000            36.158mm     52.1586mm      36.158mm     52.1586mm      35.558mm     52.1586mm  T        360.00 R2             
+R114       AP2-00000              29.8mm     39.1086mm        29.8mm     39.1086mm        29.8mm     38.5086mm  T         90.00 R2             
+R117       AP2-00000             22.85mm     50.9836mm       22.85mm     50.9836mm       22.25mm     50.9836mm  T        360.00 R2             
+R201       AP2-00000             23.45mm     10.3086mm       23.45mm     10.3086mm       24.05mm     10.3086mm  T        180.00 R2             
+R118       AP2-00000             34.95mm     42.2086mm       34.95mm     42.2086mm       34.35mm     42.2086mm  T        360.00 R2             
+C106       AP1-00038            23.475mm     44.2586mm      23.475mm     43.7336mm      23.475mm     43.7336mm  T        180.00 CAP-NONPOL     
+R200       AP2-00000            18.875mm     34.9336mm      18.875mm     34.9336mm      18.875mm     34.3336mm  T         90.00 R2             
+U200       AP6-00371                30mm     25.6586mm          30mm     25.6586mm       28.14mm     26.9086mm  T        360.00 SAMD10_QFN24   
+J101       AP8-00851                30mm     71.8836mm          30mm     73.3836mm        31.3mm     70.7086mm  T        180.00 2,000 pieces per reel
+J205       AP8-00257                38mm      5.4586mm          38mm      5.4586mm      37.365mm      7.9986mm  T        270.00 HEADER 2x5     
+R203       AP2-00000            25.016mm     23.3252mm      25.016mm     23.3252mm      24.416mm     23.3252mm  T        360.00 R2             
+C205       AP1-00001                25mm       26.55mm          25mm       26.55mm       24.45mm       26.55mm  T        360.00 CAP-NONPOL     
+
